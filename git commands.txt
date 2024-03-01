@@ -1,9 +1,0 @@
-First of all create folder name same as remote repo
-git init
-git add .
-git commit -m "Added figma pdf to local machine"
-git status
-git remote add origin https://github.com/Maakabharosha/2201031800035.git
-git branch -M main
-git pull origin main --allow-unrelated-histories
-git push -u origin main
